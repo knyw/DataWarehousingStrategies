@@ -4,7 +4,7 @@
   "description": "Final Project for Advanced Database",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Kenny Wu",
   "license": "ISC",
